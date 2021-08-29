@@ -1,4 +1,4 @@
-<B>For this exercise you will need to use the following technologies:</b>
+
 
 Java 8 <br>
 Maven 3.6.* <br>
@@ -6,7 +6,6 @@ Spring Boot 2.3.5.RELEASE <br>
 Spring data <br>
 Junit test 4.* <br>
 
-You will need to implement a Walt app system.
 
 <B>Walt is an on-line food delivery service.</b>
 
@@ -33,10 +32,5 @@ When customers order, they must provide: Name, City, Address, Time of delivery, 
 * If no available driver in city – provide proper error message
 * When a customer place an order, you can assume the Restaurant exist in the system, customer may or may not exist 
 
-<b>Important notes:</b>
-1. Make sure to import the project as Maven project
-2. WaltTest is configured with basic data, you may use it
-3. Model, Repositories are implemented, you may add any additional class, repository or service
-4. Just to be clear, you are required to implement the interface: WaltService
 
-Good-luck!
+
